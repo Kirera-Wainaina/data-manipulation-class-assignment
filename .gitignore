@@ -1,0 +1,8 @@
+# ignore zip folders and files
+*.zip
+
+# ignore the env folder - upload requirements.txt instead
+/env
+
+# ignore manual notebook saves
+.ipynb_checkpoints/
