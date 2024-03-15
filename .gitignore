@@ -6,3 +6,6 @@
 
 # ignore manual notebook saves
 .ipynb_checkpoints/
+
+# ignore .env
+.env
